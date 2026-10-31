@@ -75,15 +75,15 @@ export default function Footer() {
                     className={"find-us"}
                   >
                     <span>L.</span>
-                    <div>Downtown, Dubai</div>
+                    <div>Busan, South Korea</div>
                   </Box>
                   <Box className={"find-us"}>
                     <span>P.</span>
-                    <div>+971 4 554 7777</div>
+                    <div>+8210 8156 1911</div>
                   </Box>
                   <Box className={"find-us"}>
                     <span>E.</span>
-                    <div>devexuz@gmail.com</div>
+                    <div>mirzaolimtoxtasinov8@gmail.com</div>
                   </Box>
                   <Box className={"find-us"}>
                     <span>H.</span>
