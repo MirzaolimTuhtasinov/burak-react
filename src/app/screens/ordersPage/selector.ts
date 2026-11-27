@@ -10,7 +10,7 @@ export const retrievePausedOrders = createSelector(
 
 export const retrieveProcessOrders = createSelector(
     selectOrdersPage,
-    (OrdersPage) => OrdersPage.pausedOrders
+    (OrdersPage) => OrdersPage.processOrders
 );
 
 export const retrieveFinishedOrders = createSelector(
