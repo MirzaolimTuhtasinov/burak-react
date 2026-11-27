@@ -56,8 +56,8 @@ const useBasket = () => {
 
   const onDeleteAll = () => {
     setCartItems([]);
-    localStorage.removeItem("carData");
-  }
+    localStorage.removeItem("cartData");
+  };
 
   return {
     cartItems,
